@@ -1,19 +1,5 @@
-# :hibiscus: Perfume web store
 
-<a href="http://perfumeweb.tk/">
-    <img src="https://i.ibb.co/6YNPHCd/LOGO3.jpg" width="45%" height="45%">
-</a>
 
-E-commerce project developed using Spring Boot and React.js.<br>
-This project is second version of [OnlineShop](https://github.com/merikbest/OnlineShop) with RESTful services, JWT authentication and frontend built using ReactJS. <br>
-Look demo below.
-
-#### An actual version of build is deployed on AWS:
-http://perfumeweb.tk <br>
-Login: admin@gmail.com <br> 
-Password: admin
-
-## Used Technologies:
 
 * Back-end: Spring (Boot, Data, Security), JPA / Hibernate, PostgreSQL, JUnit, Mockito
 * Front-end: React.js, Redux, Bootstrap, CSS
